@@ -7,5 +7,4 @@ layout: post
 # Here is the Map of Content Scenius
 
 What is Scenius?
-I mean why this is not working?
 
